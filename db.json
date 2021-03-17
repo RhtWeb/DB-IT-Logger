@@ -18,14 +18,14 @@
       "id": 3,
       "message": "Server 003 Started running",
       "tech": "Rajnish Chaubey",
-      "attention": true,
+      "attention": false,
       "date": "1/9/2021"
     },
     {
       "id": 4,
       "message": " bahut bahut Gajazab",
       "tech": "Rohit Singh",
-      "attention": true,
+      "attention": false,
       "date": "1/9/2021"
     },
     {
