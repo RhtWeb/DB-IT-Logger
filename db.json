@@ -27,6 +27,13 @@
       "tech": "Rohit Singh",
       "attention": true,
       "date": "1/9/2021"
+    },
+    {
+      "id": 5,
+      "message": "You can Change \"proxy\": \"http://localhost:5000\" in package.json file and then type ---->   npm run dev",
+      "tech": "Rohit Singh",
+      "attention": true,
+      "date": "3/18/2021"
     }
   ],
   "techs": [
