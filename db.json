@@ -2,7 +2,7 @@
   "logs": [
     {
       "id": 1,
-      "message": "You can Change \"proxy\": \"http://localhost:5000\" in package.json file and then type ---->   npm run dev",
+      "message": "You can use \"http://localhost:5000\" and then run the command ---->   npm run dev",
       "tech": "Rohit Singh",
       "attention": true,
       "date": "3/18/2021"
